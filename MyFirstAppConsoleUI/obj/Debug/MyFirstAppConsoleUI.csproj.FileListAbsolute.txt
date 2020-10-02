@@ -1,0 +1,7 @@
+F:\Clase\2021\Interfaces\Projectos\MyFirstApp\MyFirstAppConsoleUI\bin\Debug\MyFirstAppConsoleUI.exe.config
+F:\Clase\2021\Interfaces\Projectos\MyFirstApp\MyFirstAppConsoleUI\bin\Debug\MyFirstAppConsoleUI.exe
+F:\Clase\2021\Interfaces\Projectos\MyFirstApp\MyFirstAppConsoleUI\bin\Debug\MyFirstAppConsoleUI.pdb
+F:\Clase\2021\Interfaces\Projectos\MyFirstApp\MyFirstAppConsoleUI\obj\Debug\MyFirstAppConsoleUI.csprojAssemblyReference.cache
+F:\Clase\2021\Interfaces\Projectos\MyFirstApp\MyFirstAppConsoleUI\obj\Debug\MyFirstAppConsoleUI.csproj.CoreCompileInputs.cache
+F:\Clase\2021\Interfaces\Projectos\MyFirstApp\MyFirstAppConsoleUI\obj\Debug\MyFirstAppConsoleUI.exe
+F:\Clase\2021\Interfaces\Projectos\MyFirstApp\MyFirstAppConsoleUI\obj\Debug\MyFirstAppConsoleUI.pdb
